@@ -30,7 +30,7 @@
     "javve/events": "*",
     "javve/get-by-class": "*",
     "javve/get-attribute": "*",
-    "javve/natural-sort": "*",
+    "thorin/natural-sort": "956581671f1428734c53d21795f46a4338f46a8d",
     "javve/to-string": "*",
     "component/type": "*"
   },
